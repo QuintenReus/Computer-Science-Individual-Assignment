@@ -1,4 +1,4 @@
-
+This code is created to perform duplicate detection on a set of TVs. 
 
 There are two different main files. The main_LSH run the code, including bootstraps, for isolating the performance of the LSH method. Here the duplicates are set to be the candidate pairs proposed by LSH.
 
